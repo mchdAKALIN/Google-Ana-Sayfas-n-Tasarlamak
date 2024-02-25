@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 10px 50px;
+
+}
+
+/* arama alanı düzenleme */
+.bg-gray {
+    background-color: #EEEEEE;
+}
+
+.container {
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 65px;
+    width: auto;
+    text-align: center;
+}
+
+.emptybox {
+    border: 1px solid gray;
+    background-color: white;
+    height: 21px;
+    width: 293px;
+    margin: -18px auto 2px;
+    
+}
+
+.btn {
+    padding: 1px 2px;
+    float: left;
+    width: 105px;
+    height: 21px;
+    margin-left: 42%;
+}
+
+.btn2 {
+    padding: 1px 2px;
+    float: left;
+    width: 112px;
+    height: 21px;
+}
+/* arama alanı düzenleme sonu */
+
+/* resim düzenleme */
+.img {
+    height: 113px;
+    width: 351px;
+    margin: auto;
+}
+/* resim düzenleme sonu */
+
+/* help düzenleme */
+.link{
+    color: blue;
+    text-decoration: underline;
+}
+
+h1 , h2 {
+    color: red;
+
+}
+
+.g-color {
+    color: green;
+    
+}
+
+.r-color {
+    color: red;
+}
+
+.center {
+    text-align: center;
+
+}
+/* help düzenleme sonu */
+
+/* link alanı düzenleme */
+.box {
+    height: 76px;
+    width: 34%;
+    float: left;
+    border: none;
+    background-color:rgb(131, 197, 198);;
+    margin-right: 2px;
+  
+    
+
+} 
+.box-2 {
+    height: 76px;
+    width:  33%;
+    float: left;
+    border: none;
+    background-color: rgb(131, 197, 198);;
+
+} 
+
+.box-3 {
+   height: 76px;
+    width: 32.7%;
+    float: left;
+    border: none;
+    background-color: rgb(131, 197, 198);
+    margin-left: 2px;
+
+} 
+
+p.margin {
+    margin: 1px;
+}
+
+.clear {
+    clear: both;
+}
+
+.font{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* link alanı düzenleme sonu */
